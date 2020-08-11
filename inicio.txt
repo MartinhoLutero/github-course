@@ -1,0 +1,5 @@
+Aquivo inicial do repositório
+
+Curso de Git Github
+
+Um curso básico, para ensinar algumas ferramentas do Git e o Github
